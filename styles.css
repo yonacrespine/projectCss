@@ -1,0 +1,26 @@
+body {
+    background-image: url("pain.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom:150px; 
+    
+
+    
+}
+
+h1 {
+    color: rgb(78, 74, 74);
+}
+
+.recette {
+    background-color: rgb(71, 69, 69);
+    color : white;
+    display: inline-block;
+    width: 200px;
+    height:140px;
+    border-radius: 100%;
+    margin-left: 20px;
+    box-shadow:  10px 5px 5px black;
+
+}
